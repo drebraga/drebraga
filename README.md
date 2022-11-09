@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img align="right" style="" src="https://github-readme-stats.vercel.app/api?username=drebraga" />
 
-<div style="display: flex;">
+<img style="height: 200px; " align="right" style="" src="https://github-readme-stats.vercel.app/api?username=drebraga&show_icons=true&count_private=true&theme=dark" />
+
+<div>
     <a href="mailto:dre.braga@gmail.com">
         <img style="height: 25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
