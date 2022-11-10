@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm not the best in any game, but I'm above average in any of them.
 
-##### You can reach me here:
+##### 📫 How to reach me:
 <p align= "left">
     <a href="mailto:dre.braga@gmail.com">
         <img style="height: 20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,7 +24,7 @@
 </p>
 
 
-##### Languages and Tools:
+##### :books: Languages and Tools:
 
 <p>
     <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"></code>
