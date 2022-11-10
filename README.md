@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello World, eu sou o Andre 👋
 
+#### About me
+    - ✍     You can find my projects here!
+    - 🔭    I’m currently working on my final project in college
+    - 🌱    I’m currently learning React Native
+    - 💬    Ask me anything about cars and we can talk for hours!
+    - 😄    Pronouns: He/His
+    - ⚡    Fun fact: I'm not the best in any game, but I'm above average in any of them.
 
 <p align= "center">
     <a href="mailto:dre.braga@gmail.com">
@@ -33,10 +40,8 @@
     <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"></code>
     <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"></code>
 </p>
-
-<p>
     
-</p>
+[portfolio] 
 <!--
 **drebraga/drebraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 /<img src="" />
