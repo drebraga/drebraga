@@ -17,6 +17,15 @@
 <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=drebraga&show_icons=true&count_private=true&theme=dark" />
 </p>
 
+**Languages and Tools:**
+
+<p>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+</p>
+
 <!--
 **drebraga/drebraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 /<img src="" />
