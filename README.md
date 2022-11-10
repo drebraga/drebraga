@@ -20,10 +20,8 @@
 **Languages and Tools:**
 
 <p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+<img src="./imgs/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="HTML5">
+<img src="./imgs/html5.svg" height="40" style="vertical-align:down; margin:4px" alt="HTML5">
 </p>
 
 <!--
