@@ -28,23 +28,22 @@
 
 <p>
     <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"> HTML5</code>
-    <code><img src="./imgs/css3.svg" height="30" style="vertical-align:down; margin:4px" alt="CSS3"></code>
-    <code><img src="./imgs/javascrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="javascrypt"></code>
-    <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"></code>
-    <code><img src="./imgs/webpack.svg" height="30" style="vertical-align:down; margin:4px" alt="webpack"></code>
-    <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"></code>
-    <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"></code>
-    <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"></code>
-    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"></code>
-    <code><img src="./imgs/postgresql.svg" height="30" style="vertical-align:down; margin:4px" alt="postgresql"></code>
-    <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"></code>
-    <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"></code>
+    <code><img src="./imgs/css3.svg" height="30" style="vertical-align:down; margin:4px" alt="CSS3"> CSS3</code>
+    <code><img src="./imgs/javascrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="javascrypt"> JavaScript</code>
+    <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"> React</code>
+    <code><img src="./imgs/webpack.svg" height="30" style="vertical-align:down; margin:4px" alt="webpack"> WebPack</code>
+    <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"> Node.JS</code>
+    <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"> Express</code>
+    <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"> MongoDB</code>
+    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"> TypeScript</code>
+    <code><img src="./imgs/postgresql.svg" height="30" style="vertical-align:down; margin:4px" alt="postgresql"> PostgresSQL</code>
+    <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"> Redis</code>
 </p>
 
 ##### :books: Studying:
 
 <p>
-    
+    <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"> Docker</code>
 </p>
 <!--
 **drebraga/drebraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
