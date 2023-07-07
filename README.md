@@ -2,7 +2,7 @@
 
 <img align= "right" style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=drebraga&show_icons=true&count_private=true&theme=dark" />
 
-#### I'm a FullStack Developer in progress, currently on Driven Education's bootcamp and graduating in Automotive Engineering from the University of Brasília - Brazil
+#### I'm a FullStack Web Developer, currently on Driven Education's bootcamp and graduating in Automotive Engineering from the University of Brasília - Brazil
 - ✍  You can find my projects here in this GitHub page!
 - 🔭 I’m currently working on my final project in college
 - 🌱 I’m currently learning React Native
@@ -27,7 +27,7 @@
 ##### :zap: Languages and Tools:
 
 <p>
-    <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"></code>
+    <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"> HTML5</code>
     <code><img src="./imgs/css3.svg" height="30" style="vertical-align:down; margin:4px" alt="CSS3"></code>
     <code><img src="./imgs/javascrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="javascrypt"></code>
     <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"></code>
@@ -35,15 +35,16 @@
     <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"></code>
     <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"></code>
     <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"></code>
+    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"></code>
+    <code><img src="./imgs/postgresql.svg" height="30" style="vertical-align:down; margin:4px" alt="postgresql"></code>
+    <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"></code>
+    <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"></code>
 </p>
 
 ##### :books: Studying:
 
 <p>
-    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"></code>
-    <code><img src="./imgs/postgresql.svg" height="30" style="vertical-align:down; margin:4px" alt="postgresql"></code>
-    <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"></code>
-    <code><img src="./imgs/docker.svg" height="30" style="vertical-align:down; margin:4px" alt="docker"></code>
+    
 </p>
 <!--
 **drebraga/drebraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
