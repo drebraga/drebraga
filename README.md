@@ -30,13 +30,15 @@
     <code><img src="./imgs/html5.svg" height="30" style="vertical-align:down; margin:4px" alt="HTML5"> HTML5</code>
     <code><img src="./imgs/css3.svg" height="30" style="vertical-align:down; margin:4px" alt="CSS3"> CSS3</code>
     <code><img src="./imgs/javascrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="javascrypt"> JavaScript</code>
+    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"> TypeScript</code>
     <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"> React</code>
+    <code><img src="./imgs/angular.svg" height="30" style="vertical-align:down; margin:4px" alt="angular"> Angular</code>
     <code><img src="./imgs/webpack.svg" height="30" style="vertical-align:down; margin:4px" alt="webpack"> WebPack</code>
     <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"> Node.JS</code>
     <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"> Express</code>
     <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"> MongoDB</code>
-    <code><img src="./imgs/typescrypt.svg" height="30" style="vertical-align:down; margin:4px" alt="typescrypt"> TypeScript</code>
     <code><img src="./imgs/postgresql.svg" height="30" style="vertical-align:down; margin:4px" alt="postgresql"> PostgresSQL</code>
+    <code><img src="./imgs/prisma.svg" height="30" style="vertical-align:down; margin:4px" alt="prisma"> Prisma</code>
     <code><img src="./imgs/redis.svg" height="30" style="vertical-align:down; margin:4px" alt="redis"> Redis</code>
 </p>
 
