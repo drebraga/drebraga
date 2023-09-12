@@ -34,6 +34,8 @@
     <code><img src="./imgs/react.svg" height="30" style="vertical-align:down; margin:4px" alt="react"> React</code>
     <code><img src="./imgs/angular.svg" height="30" style="vertical-align:down; margin:4px" alt="angular"> Angular</code>
     <code><img src="./imgs/webpack.svg" height="30" style="vertical-align:down; margin:4px" alt="webpack"> WebPack</code>
+</p>
+<p>
     <code><img src="./imgs/nodejs.svg" height="30" style="vertical-align:down; margin:4px" alt="nodejs"> Node.JS</code>
     <code><img src="./imgs/express.svg" height="30" style="vertical-align:down; margin:4px" alt="express"> Express</code>
     <code><img src="./imgs/mongodb.svg" height="30" style="vertical-align:down; margin:4px" alt="mongodb"> MongoDB</code>
