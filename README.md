@@ -2,10 +2,10 @@
 
 <img align= "right" style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=drebraga&show_icons=true&count_private=true&theme=dark" />
 
-#### I'm a FullStack Web Developer, graduating in Automotive Engineering from the University of Brasília - Brazil
+#### I'm a FullStack Web Developer, currently working for VRSoftware
 - ✍  You can find my projects here in this GitHub page!
-- 🔭 I’m currently working on my final project in college
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working with Angular and Nest
+- 🌱 I’m currently learning A.I.
 - 💬 Ask me anything about cars and we can talk for hours!
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm not the best in any game, but I'm above average in any of them.
